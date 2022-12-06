@@ -1,2 +1,1 @@
-# landingpage.scss
-landing page using scss variables
+landing page template with scss variables.
